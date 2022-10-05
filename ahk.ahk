@@ -1,0 +1,2 @@
+#SingleInstance
+#Include "windows.ahk"
