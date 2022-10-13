@@ -7,5 +7,7 @@
 #c::FocusOrRun("Code")
 #h::RunAndActivate("explorer %homepath%", "ahk_exe explorer.exe")
 #k::AppWindowNext()
-LWin & j::AltTab
 #+d::OpenDevDirectory()
+#j::#+Right
+#+m::FocusOrRun("Outlook")
+#m::FocusOrRun("Teams")
